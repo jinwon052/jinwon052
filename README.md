@@ -20,10 +20,6 @@
 - Spring Boot Advanced Features
 - Microservices & REST APIs
 
-💼 **Portfolio**
-- [Hotel Reservation System](#) - JSP, MVC2, MyBatis 기반 프로젝트
-- [Tourist Guide Web App](#) - Spring + JSP + MyBatis 사용
-- [Personal Portfolio](#) - React 기반 포트폴리오 사이트
 
 🏅 **Stats**
 
